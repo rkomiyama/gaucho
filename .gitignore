@@ -45,3 +45,5 @@ dist
 package-lock.json
 .vscode
 test/temp
+
+resources/bundle.js
