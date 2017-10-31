@@ -1,6 +1,7 @@
 0.3.0 / ####-##-##
 ==================
-
+  * Added Spectron for front-end testing
+  * Tooltip when hovered over task status icon
   * Bottom bar with some information about tasks
   * Added configuration menu
   * Scroll now only visible inside the suite
